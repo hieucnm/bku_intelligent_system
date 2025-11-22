@@ -1,0 +1,79 @@
+# ============================
+# Python & environment
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+*.env
+
+# ============================
+# Jupyter Notebook
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Data (raw, processed, large)
+# ============================
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# ============================
+# ML Models / Checkpoints
+# ============================
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.model
+*.sav
+
+# ============================
+# Logs & experiments
+# ============================
+logs/
+*.log
+
+# ============================
+# Cache
+# ============================
+.cache/
+*.cache/
+pip-wheel-metadata/
+__pycache__/
+*.egg-info/
+*.egg
+
+# ============================
+# Output / temporary files
+# ============================
+outputs/
+results/
+tmp/
+temp/
+
+# ============================
+# IDE / Editor
+# ============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
