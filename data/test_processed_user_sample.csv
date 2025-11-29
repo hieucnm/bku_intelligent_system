@@ -1,0 +1,12 @@
+LoanID,Age,Income,LoanAmount,CreditScore,MonthsEmployed,NumCreditLines,InterestRate,LoanTerm,DTIRatio,Education,EmploymentType,MaritalStatus,HasMortgage,HasDependents,LoanPurpose,HasCoSigner,Default,phone,name,process_date,process_result,explains
+SJJNN2DFZ7,54,20956,87156,789,102,4,8.99,24,0.65,Master's,Full-time,Single,Yes,Yes,Education,No,0,0909123456,Nguyen Van A,2025-11-29 15:24:00,Passed,"Điểm tín dụng cao (CreditScore 789), thể hiện lịch sử tín dụng tốt và thói quen trả nợ ổn định.
+Thời gian làm việc dài (102 tháng) trong hình thức Full-time, cho thấy nguồn thu nhập tương đối ổn định.
+Số lượng dòng tín dụng hiện tại không quá cao (4 credit lines), giảm áp lực trả nợ.
+Mục đích vay là Education, thường gắn với mức rủi ro thấp hơn so với các mục đích kinh doanh hoặc tiêu dùng quy mô lớn.
+"
+2M13A9C7TR,18,112573,239768,593,23,3,10.52,12,0.65,Master's,Unemployed,Married,Yes,No,Business,No,1,0909654321,Nguyen Van B,2025-11-29 13:35:00,Failed,"Điểm tín dụng thấp hơn mức yêu cầu (CreditScore 593), cho thấy lịch sử tín dụng ở mức rủi ro cao.
+Thời gian công tác ngắn (23 tháng) và hiện đang ở trạng thái Unemployed, khiến nguồn thu nhập không ổn định.
+Khoản vay đề xuất khá lớn (LoanAmount 239,768) so với các điều kiện tài chính hiện tại.
+Tỷ lệ nợ trên thu nhập (DTI Ratio 0.65) ở mức cao, tạo áp lực lớn khi trả nợ.
+Mục đích vay Business, vốn thường đi kèm mức rủi ro biến động cao hơn so với các mục đích khác.
+"

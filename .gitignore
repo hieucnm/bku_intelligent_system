@@ -20,9 +20,9 @@ venv/
 # ============================
 # Data (raw, processed, large)
 # ============================
-data/
+# data/
 datasets/
-*.csv
+# *.csv
 *.tsv
 *.xlsx
 *.zip
